@@ -7302,7 +7302,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\gkopa\\Documents\\Visual Studio 2017\\Workspaces\\KopLibrary\\KopLibrary\\KopLibrary.csproj",
-      "projectName": "KopLibrary",
+      "projectName": "KopLibrary.NetCore",
       "projectPath": "C:\\Users\\gkopa\\Documents\\Visual Studio 2017\\Workspaces\\KopLibrary\\KopLibrary\\KopLibrary.csproj",
       "packagesPath": "C:\\Users\\gkopa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gkopa\\Documents\\Visual Studio 2017\\Workspaces\\KopLibrary\\KopLibrary\\obj\\",
