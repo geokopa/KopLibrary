@@ -1,0 +1,9 @@
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\bin\Release\netstandard2.0\KopLibrary.deps.json
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\bin\Release\netstandard2.0\KopLibrary.dll
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\bin\Release\netstandard2.0\KopLibrary.pdb
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\obj\Release\netstandard2.0\KopLibrary.csprojAssemblyReference.cache
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\obj\Release\netstandard2.0\KopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\obj\Release\netstandard2.0\KopLibrary.AssemblyInfoInputs.cache
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\obj\Release\netstandard2.0\KopLibrary.AssemblyInfo.cs
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\obj\Release\netstandard2.0\KopLibrary.dll
+C:\Users\gkopa\source\repos\KopLibrary\KopLibrary\obj\Release\netstandard2.0\KopLibrary.pdb
